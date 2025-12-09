@@ -1,0 +1,56 @@
+disease_keywords = {
+    
+    # --- akiec (actinic keratosis) ---
+    "akiec": [
+        "scaly", "rough", "dry patch", "crust", "crusty", "sun damaged",
+        "pink patch", "red patch", "sandpaper", "photo damage", "thin plate",
+        "precancer", "precancerous"
+    ],
+    
+    # --- bcc (basal cell carcinoma) ---
+    "bcc": [
+        "pearly", "translucent", "shiny bump", "rolled edges", "rolled border",
+        "bleeds", "bleeding", "sore that doesn’t heal", "open sore",
+        "small bump", "pink bump", "waxy", "ulcer", "rodent ulcer",
+        "visible blood vessels", "telangiectasia"
+    ],
+    
+    # --- bkl (benign keratosis-like) ---
+    "bkl": [
+        "stuck on", "warty", "wart like", "seborrheic", "brown spot", "flat brown",
+        "age spot", "sun spot", "liver spot", "rough spot", "well defined",
+        "light brown", "dark brown", "keratosis", "non cancerous growth"
+    ],
+    
+    # --- df (dermatofibroma) ---
+    "df": [
+        "firm bump", "hard bump", "dimple", "dimple sign",
+        "small nodule", "brown nodule", "round bump",
+        "insect bite like", "itchy nodule", "smooth dome",
+        "fibrous bump"
+    ],
+    
+    # --- mel (melanoma) ---
+    "mel": [
+        "irregular", "asymmetry", "uneven border", "changing", "evolving",
+        "multiple colors", "dark brown", "black patch", "bleeds", "enlarging",
+        "growing quickly", "itchy mole", "new mole", "abnormal mole",
+        "abcde", "color variation", "spreading", "large spot"
+    ],
+    
+    # --- nv (melanocytic nevi) ---
+    "nv": [
+        "mole", "brown mole", "flat mole", "raised mole", "uniform color",
+        "symmetrical mole", "birthmark", "benign mole", "tan spot",
+        "small brown spot", "regular borders", "smooth edges", 
+        "harmless mole"
+    ],
+    
+    # --- vasc (vascular lesions) ---
+    "vasc": [
+        "red spot", "purple spot", "blood spot", "cherry", "angioma",
+        "bright red bump", "bleeds easily", "hemorrhage", "red papule",
+        "angiokeratoma", "vascular lesion", "blue spot", "red nodule",
+        "pyogenic granuloma"
+    ]
+}

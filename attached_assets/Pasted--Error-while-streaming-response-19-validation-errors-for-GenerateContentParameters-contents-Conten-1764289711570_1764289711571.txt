@@ -1,0 +1,58 @@
+[Error while streaming response: 19 validation errors for _GenerateContentParameters
+contents.Content
+Input should be a valid dictionary or object to extract fields from [type=model_attributes_type, input_value=[{'role': 'user', 'parts'...keeps coming back.\n']}], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/model_attributes_type
+contents.str
+Input should be a valid string [type=string_type, input_value=[{'role': 'user', 'parts'...keeps coming back.\n']}], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/string_type
+contents.is-instance[Image]
+Input should be an instance of Image [type=is_instance_of, input_value=[{'role': 'user', 'parts'...keeps coming back.\n']}], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/is_instance_of
+contents.File
+Input should be a valid dictionary or object to extract fields from [type=model_attributes_type, input_value=[{'role': 'user', 'parts'...keeps coming back.\n']}], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/model_attributes_type
+contents.Part
+Input should be a valid dictionary or object to extract fields from [type=model_attributes_type, input_value=[{'role': 'user', 'parts'...keeps coming back.\n']}], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/model_attributes_type
+contents.list[union[str,is-instance[Image],File,Part]].0.str
+Input should be a valid string [type=string_type, input_value={'role': 'user', 'parts':... keeps coming back.\n']}, input_type=dict]
+For further information visit https://errors.pydantic.dev/2.12/v/string_type
+contents.list[union[str,is-instance[Image],File,Part]].0.is-instance[Image]
+Input should be an instance of Image [type=is_instance_of, input_value={'role': 'user', 'parts':... keeps coming back.\n']}, input_type=dict]
+For further information visit https://errors.pydantic.dev/2.12/v/is_instance_of
+contents.list[union[str,is-instance[Image],File,Part]].0.File.role
+Extra inputs are not permitted [type=extra_forbidden, input_value='user', input_type=str]
+For further information visit https://errors.pydantic.dev/2.12/v/extra_forbidden
+contents.list[union[str,is-instance[Image],File,Part]].0.File.parts
+Extra inputs are not permitted [type=extra_forbidden, input_value=['There is a dry crusty s...t keeps coming back.\n'], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/extra_forbidden
+contents.list[union[str,is-instance[Image],File,Part]].0.Part.role
+Extra inputs are not permitted [type=extra_forbidden, input_value='user', input_type=str]
+For further information visit https://errors.pydantic.dev/2.12/v/extra_forbidden
+contents.list[union[str,is-instance[Image],File,Part]].0.Part.parts
+Extra inputs are not permitted [type=extra_forbidden, input_value=['There is a dry crusty s...t keeps coming back.\n'], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/extra_forbidden
+contents.list[union[Content,str,is-instance[Image],File,Part,list[union[str,is-instance[Image],File,Part]]]].0.Content.parts.0
+Input should be a valid dictionary or object to extract fields from [type=model_attributes_type, input_value='There is a dry crusty sp...at keeps coming back.\n', input_type=str]
+For further information visit https://errors.pydantic.dev/2.12/v/model_attributes_type
+contents.list[union[Content,str,is-instance[Image],File,Part,list[union[str,is-instance[Image],File,Part]]]].0.str
+Input should be a valid string [type=string_type, input_value={'role': 'user', 'parts':... keeps coming back.\n']}, input_type=dict]
+For further information visit https://errors.pydantic.dev/2.12/v/string_type
+contents.list[union[Content,str,is-instance[Image],File,Part,list[union[str,is-instance[Image],File,Part]]]].0.is-instance[Image]
+Input should be an instance of Image [type=is_instance_of, input_value={'role': 'user', 'parts':... keeps coming back.\n']}, input_type=dict]
+For further information visit https://errors.pydantic.dev/2.12/v/is_instance_of
+contents.list[union[Content,str,is-instance[Image],File,Part,list[union[str,is-instance[Image],File,Part]]]].0.File.role
+Extra inputs are not permitted [type=extra_forbidden, input_value='user', input_type=str]
+For further information visit https://errors.pydantic.dev/2.12/v/extra_forbidden
+contents.list[union[Content,str,is-instance[Image],File,Part,list[union[str,is-instance[Image],File,Part]]]].0.File.parts
+Extra inputs are not permitted [type=extra_forbidden, input_value=['There is a dry crusty s...t keeps coming back.\n'], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/extra_forbidden
+contents.list[union[Content,str,is-instance[Image],File,Part,list[union[str,is-instance[Image],File,Part]]]].0.Part.role
+Extra inputs are not permitted [type=extra_forbidden, input_value='user', input_type=str]
+For further information visit https://errors.pydantic.dev/2.12/v/extra_forbidden
+contents.list[union[Content,str,is-instance[Image],File,Part,list[union[str,is-instance[Image],File,Part]]]].0.Part.parts
+Extra inputs are not permitted [type=extra_forbidden, input_value=['There is a dry crusty s...t keeps coming back.\n'], input_type=list]
+For further information visit https://errors.pydantic.dev/2.12/v/extra_forbidden
+contents.list[union[Content,str,is-instance[Image],File,Part,list[union[str,is-instance[Image],File,Part]]]].0.list[union[str,is-instance[Image],File,Part]]
+Input should be a valid list [type=list_type, input_value={'role': 'user', 'parts':... keeps coming back.\n']}, input_type=dict]
+For further information visit https://errors.pydantic.dev/2.12/v/list_type]
