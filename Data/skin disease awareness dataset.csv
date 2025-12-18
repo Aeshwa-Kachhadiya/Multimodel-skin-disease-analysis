@@ -1,0 +1,241 @@
+State,Year,Skin_Disease_Name,Awareness_Level,Avg_Response_Time_Days,Screening_Availability,Prevention_Education,Public_Perception_Score_1_5
+California,2018,Melanoma,High,5,Available,Yes,4
+California,2018,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+California,2018,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+California,2018,Psoriasis,Low,20,No,Partial,2
+California,2018,Acne,Low,30,No,None,1
+California,2018,Rosacea,Low,25,No,Partial,2
+California,2018,Contact Dermatitis,Low,15,No,Partial,2
+California,2018,Fungal Skin Diseases,Low,10,No,None,1
+California,2019,Melanoma,High,5,Available,Yes,4
+California,2019,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+California,2019,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+California,2019,Psoriasis,Low,20,No,Partial,2
+California,2019,Acne,Low,30,No,None,1
+California,2019,Rosacea,Low,25,No,Partial,2
+California,2019,Contact Dermatitis,Low,15,No,Partial,2
+California,2019,Fungal Skin Diseases,Low,10,No,None,1
+California,2020,Melanoma,High,5,Available,Yes,4
+California,2020,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+California,2020,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+California,2020,Psoriasis,Low,20,No,Partial,2
+California,2020,Acne,Low,30,No,None,1
+California,2020,Rosacea,Low,25,No,Partial,2
+California,2020,Contact Dermatitis,Low,15,No,Partial,2
+California,2020,Fungal Skin Diseases,Low,10,No,None,1
+California,2021,Melanoma,High,5,Available,Yes,4
+California,2021,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+California,2021,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+California,2021,Psoriasis,Low,20,No,Partial,2
+California,2021,Acne,Low,30,No,None,1
+California,2021,Rosacea,Low,25,No,Partial,2
+California,2021,Contact Dermatitis,Low,15,No,Partial,2
+California,2021,Fungal Skin Diseases,Low,10,No,None,1
+California,2022,Melanoma,High,5,Available,Yes,4
+California,2022,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+California,2022,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+California,2022,Psoriasis,Low,20,No,Partial,2
+California,2022,Acne,Low,30,No,None,1
+California,2022,Rosacea,Low,25,No,Partial,2
+California,2022,Contact Dermatitis,Low,15,No,Partial,2
+California,2022,Fungal Skin Diseases,Low,10,No,None,1
+California,2023,Melanoma,High,5,Available,Yes,4
+California,2023,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+California,2023,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+California,2023,Psoriasis,Low,20,No,Partial,2
+California,2023,Acne,Low,30,No,None,1
+California,2023,Rosacea,Low,25,No,Partial,2
+California,2023,Contact Dermatitis,Low,15,No,Partial,2
+California,2023,Fungal Skin Diseases,Low,10,No,None,1
+Texas,2018,Melanoma,High,5,Available,Yes,4
+Texas,2018,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Texas,2018,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Texas,2018,Psoriasis,Low,20,No,Partial,2
+Texas,2018,Acne,Low,30,No,None,1
+Texas,2018,Rosacea,Low,25,No,Partial,2
+Texas,2018,Contact Dermatitis,Low,15,No,Partial,2
+Texas,2018,Fungal Skin Diseases,Low,10,No,None,1
+Texas,2019,Melanoma,High,5,Available,Yes,4
+Texas,2019,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Texas,2019,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Texas,2019,Psoriasis,Low,20,No,Partial,2
+Texas,2019,Acne,Low,30,No,None,1
+Texas,2019,Rosacea,Low,25,No,Partial,2
+Texas,2019,Contact Dermatitis,Low,15,No,Partial,2
+Texas,2019,Fungal Skin Diseases,Low,10,No,None,1
+Texas,2020,Melanoma,High,5,Available,Yes,4
+Texas,2020,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Texas,2020,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Texas,2020,Psoriasis,Low,20,No,Partial,2
+Texas,2020,Acne,Low,30,No,None,1
+Texas,2020,Rosacea,Low,25,No,Partial,2
+Texas,2020,Contact Dermatitis,Low,15,No,Partial,2
+Texas,2020,Fungal Skin Diseases,Low,10,No,None,1
+Texas,2021,Melanoma,High,5,Available,Yes,4
+Texas,2021,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Texas,2021,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Texas,2021,Psoriasis,Low,20,No,Partial,2
+Texas,2021,Acne,Low,30,No,None,1
+Texas,2021,Rosacea,Low,25,No,Partial,2
+Texas,2021,Contact Dermatitis,Low,15,No,Partial,2
+Texas,2021,Fungal Skin Diseases,Low,10,No,None,1
+Texas,2022,Melanoma,High,5,Available,Yes,4
+Texas,2022,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Texas,2022,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Texas,2022,Psoriasis,Low,20,No,Partial,2
+Texas,2022,Acne,Low,30,No,None,1
+Texas,2022,Rosacea,Low,25,No,Partial,2
+Texas,2022,Contact Dermatitis,Low,15,No,Partial,2
+Texas,2022,Fungal Skin Diseases,Low,10,No,None,1
+Texas,2023,Melanoma,High,5,Available,Yes,4
+Texas,2023,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Texas,2023,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Texas,2023,Psoriasis,Low,20,No,Partial,2
+Texas,2023,Acne,Low,30,No,None,1
+Texas,2023,Rosacea,Low,25,No,Partial,2
+Texas,2023,Contact Dermatitis,Low,15,No,Partial,2
+Texas,2023,Fungal Skin Diseases,Low,10,No,None,1
+Florida,2018,Melanoma,High,5,Available,Yes,4
+Florida,2018,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Florida,2018,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Florida,2018,Psoriasis,Low,20,No,Partial,2
+Florida,2018,Acne,Low,30,No,None,1
+Florida,2018,Rosacea,Low,25,No,Partial,2
+Florida,2018,Contact Dermatitis,Low,15,No,Partial,2
+Florida,2018,Fungal Skin Diseases,Low,10,No,None,1
+Florida,2019,Melanoma,High,5,Available,Yes,4
+Florida,2019,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Florida,2019,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Florida,2019,Psoriasis,Low,20,No,Partial,2
+Florida,2019,Acne,Low,30,No,None,1
+Florida,2019,Rosacea,Low,25,No,Partial,2
+Florida,2019,Contact Dermatitis,Low,15,No,Partial,2
+Florida,2019,Fungal Skin Diseases,Low,10,No,None,1
+Florida,2020,Melanoma,High,5,Available,Yes,4
+Florida,2020,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Florida,2020,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Florida,2020,Psoriasis,Low,20,No,Partial,2
+Florida,2020,Acne,Low,30,No,None,1
+Florida,2020,Rosacea,Low,25,No,Partial,2
+Florida,2020,Contact Dermatitis,Low,15,No,Partial,2
+Florida,2020,Fungal Skin Diseases,Low,10,No,None,1
+Florida,2021,Melanoma,High,5,Available,Yes,4
+Florida,2021,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Florida,2021,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Florida,2021,Psoriasis,Low,20,No,Partial,2
+Florida,2021,Acne,Low,30,No,None,1
+Florida,2021,Rosacea,Low,25,No,Partial,2
+Florida,2021,Contact Dermatitis,Low,15,No,Partial,2
+Florida,2021,Fungal Skin Diseases,Low,10,No,None,1
+Florida,2022,Melanoma,High,5,Available,Yes,4
+Florida,2022,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Florida,2022,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Florida,2022,Psoriasis,Low,20,No,Partial,2
+Florida,2022,Acne,Low,30,No,None,1
+Florida,2022,Rosacea,Low,25,No,Partial,2
+Florida,2022,Contact Dermatitis,Low,15,No,Partial,2
+Florida,2022,Fungal Skin Diseases,Low,10,No,None,1
+Florida,2023,Melanoma,High,5,Available,Yes,4
+Florida,2023,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Florida,2023,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Florida,2023,Psoriasis,Low,20,No,Partial,2
+Florida,2023,Acne,Low,30,No,None,1
+Florida,2023,Rosacea,Low,25,No,Partial,2
+Florida,2023,Contact Dermatitis,Low,15,No,Partial,2
+Florida,2023,Fungal Skin Diseases,Low,10,No,None,1
+New York,2018,Melanoma,High,5,Available,Yes,4
+New York,2018,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+New York,2018,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+New York,2018,Psoriasis,Low,20,No,Partial,2
+New York,2018,Acne,Low,30,No,None,1
+New York,2018,Rosacea,Low,25,No,Partial,2
+New York,2018,Contact Dermatitis,Low,15,No,Partial,2
+New York,2018,Fungal Skin Diseases,Low,10,No,None,1
+New York,2019,Melanoma,High,5,Available,Yes,4
+New York,2019,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+New York,2019,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+New York,2019,Psoriasis,Low,20,No,Partial,2
+New York,2019,Acne,Low,30,No,None,1
+New York,2019,Rosacea,Low,25,No,Partial,2
+New York,2019,Contact Dermatitis,Low,15,No,Partial,2
+New York,2019,Fungal Skin Diseases,Low,10,No,None,1
+New York,2020,Melanoma,High,5,Available,Yes,4
+New York,2020,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+New York,2020,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+New York,2020,Psoriasis,Low,20,No,Partial,2
+New York,2020,Acne,Low,30,No,None,1
+New York,2020,Rosacea,Low,25,No,Partial,2
+New York,2020,Contact Dermatitis,Low,15,No,Partial,2
+New York,2020,Fungal Skin Diseases,Low,10,No,None,1
+New York,2021,Melanoma,High,5,Available,Yes,4
+New York,2021,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+New York,2021,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+New York,2021,Psoriasis,Low,20,No,Partial,2
+New York,2021,Acne,Low,30,No,None,1
+New York,2021,Rosacea,Low,25,No,Partial,2
+New York,2021,Contact Dermatitis,Low,15,No,Partial,2
+New York,2021,Fungal Skin Diseases,Low,10,No,None,1
+New York,2022,Melanoma,High,5,Available,Yes,4
+New York,2022,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+New York,2022,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+New York,2022,Psoriasis,Low,20,No,Partial,2
+New York,2022,Acne,Low,30,No,None,1
+New York,2022,Rosacea,Low,25,No,Partial,2
+New York,2022,Contact Dermatitis,Low,15,No,Partial,2
+New York,2022,Fungal Skin Diseases,Low,10,No,None,1
+New York,2023,Melanoma,High,5,Available,Yes,4
+New York,2023,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+New York,2023,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+New York,2023,Psoriasis,Low,20,No,Partial,2
+New York,2023,Acne,Low,30,No,None,1
+New York,2023,Rosacea,Low,25,No,Partial,2
+New York,2023,Contact Dermatitis,Low,15,No,Partial,2
+New York,2023,Fungal Skin Diseases,Low,10,No,None,1
+Illinois,2018,Melanoma,High,5,Available,Yes,4
+Illinois,2018,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Illinois,2018,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Illinois,2018,Psoriasis,Low,20,No,Partial,2
+Illinois,2018,Acne,Low,30,No,None,1
+Illinois,2018,Rosacea,Low,25,No,Partial,2
+Illinois,2018,Contact Dermatitis,Low,15,No,Partial,2
+Illinois,2018,Fungal Skin Diseases,Low,10,No,None,1
+Illinois,2019,Melanoma,High,5,Available,Yes,4
+Illinois,2019,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Illinois,2019,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Illinois,2019,Psoriasis,Low,20,No,Partial,2
+Illinois,2019,Acne,Low,30,No,None,1
+Illinois,2019,Rosacea,Low,25,No,Partial,2
+Illinois,2019,Contact Dermatitis,Low,15,No,Partial,2
+Illinois,2019,Fungal Skin Diseases,Low,10,No,None,1
+Illinois,2020,Melanoma,High,5,Available,Yes,4
+Illinois,2020,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Illinois,2020,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Illinois,2020,Psoriasis,Low,20,No,Partial,2
+Illinois,2020,Acne,Low,30,No,None,1
+Illinois,2020,Rosacea,Low,25,No,Partial,2
+Illinois,2020,Contact Dermatitis,Low,15,No,Partial,2
+Illinois,2020,Fungal Skin Diseases,Low,10,No,None,1
+Illinois,2021,Melanoma,High,5,Available,Yes,4
+Illinois,2021,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Illinois,2021,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Illinois,2021,Psoriasis,Low,20,No,Partial,2
+Illinois,2021,Acne,Low,30,No,None,1
+Illinois,2021,Rosacea,Low,25,No,Partial,2
+Illinois,2021,Contact Dermatitis,Low,15,No,Partial,2
+Illinois,2021,Fungal Skin Diseases,Low,10,No,None,1
+Illinois,2022,Melanoma,High,5,Available,Yes,4
+Illinois,2022,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Illinois,2022,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Illinois,2022,Psoriasis,Low,20,No,Partial,2
+Illinois,2022,Acne,Low,30,No,None,1
+Illinois,2022,Rosacea,Low,25,No,Partial,2
+Illinois,2022,Contact Dermatitis,Low,15,No,Partial,2
+Illinois,2022,Fungal Skin Diseases,Low,10,No,None,1
+Illinois,2023,Melanoma,High,5,Available,Yes,4
+Illinois,2023,Squamous Cell Carcinoma (SCC),Medium,7,Limited,Yes,3
+Illinois,2023,Basal Cell Carcinoma (BCC),Medium,8,Limited,Yes,3
+Illinois,2023,Psoriasis,Low,20,No,Partial,2
+Illinois,2023,Acne,Low,30,No,None,1
+Illinois,2023,Rosacea,Low,25,No,Partial,2
+Illinois,2023,Contact Dermatitis,Low,15,No,Partial,2
+Illinois,2023,Fungal Skin Diseases,Low,10,No,None,1
