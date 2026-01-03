@@ -189,17 +189,13 @@ Contributions welcome! Please:
 
 ## 👥 Team
 
-**Aeshwa Kachhadiya** • **Mukesh Goit** • **Srikanth Guntupalli** • **Nikitha Yangala** • **Kush Patel**
+**Aeshwa Kachhadiya** • **Mukesh Goit**
 
 *Department of Data Science*
 
 ---
 
-## 📜 License
 
-MIT License - see [LICENSE](LICENSE) for details
-
----
 
 ## 📞 Contact
 
