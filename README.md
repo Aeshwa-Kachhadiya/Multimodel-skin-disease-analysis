@@ -204,13 +204,9 @@ Contributions welcome! Please:
 
 ---
 
-<div align="center">
 
-**⭐ Star this repo if you find it useful!**
 
-Made with ❤️ by the Data Science Team
 
-</div>
 
 ## Dashboard Preview
 <img width="1279" height="712" alt="image" src="https://github.com/user-attachments/assets/7d2956f6-9912-4464-80d2-dd401dc048d8" />
@@ -221,4 +217,9 @@ Made with ❤️ by the Data Science Team
 You can view and interact with the full, live report here:
 **https://app.powerbi.com/reportEmbed?reportId=0fce1c3e-18da-447c-ba5c-00757d3574b2&autoAuth=true&ctid=70de1992-07c6-480f-a318-a1afcba03983**
 
+<div align="center">
+**⭐ Star this repo if you find it useful!**
 
+Made with ❤️ by the Data Science Team
+
+</div>
