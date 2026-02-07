@@ -113,7 +113,7 @@ streamlit run app.py
 | F1-Score | Balanced | ✅ 0.85 |
 | Inference Time | < 5 sec | ✅ Optimized |
 
-**Multimodal fusion improves accuracy by 3-4%** over single-modality approaches.
+
 
 ---
 
