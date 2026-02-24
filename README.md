@@ -1,4 +1,4 @@
-# 🩺 Multimodal Skin Disease Diagnosis System
+# 🩺 Multimodal Skin Disease Diagnosis and Treatment Recommendation
 
 <div align="center">
 
