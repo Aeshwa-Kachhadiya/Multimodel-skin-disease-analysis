@@ -1,35 +1,26 @@
-# 🩺 Multimodal Skin Disease Diagnosis and Treatment Recommendation
+#  🩺 Multimodal Skin Disease Diagnosis and Treatment Recommendation
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.54-red) ![License](https://img.shields.io/badge/License-MIT-green)
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-red?logo=streamlit)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-**AI-powered system combining images, text, and audio for skin disease diagnosis**
+> AI-powered system combining images and text for skin disease diagnosis
 
 [Quick Start](#-quick-start) • [Features](#-features) • [Demo](#-demo) • [Dataset](#-dataset)
-
-</div>
 
 ---
 
 ## 🎯 Overview
-
 An intelligent multimodal system that analyzes skin conditions using:
+
 - 🖼️ **Images** - Skin lesion photos with color/texture analysis
 - 📝 **Text** - Symptom descriptions with keyword matching
-- 🎤 **Audio** - Voice recordings (experimental)
 
-**Detects 7 conditions**: Melanoma, Basal Cell Carcinoma, Actinic Keratosis, Benign Keratosis, Dermatofibroma, Melanocytic Nevus, Vascular Lesion
+Detects **7 conditions**: Melanoma, Basal Cell Carcinoma, Actinic Keratosis, Benign Keratosis, Dermatofibroma, Melanocytic Nevus, Vascular Lesion
 
-> ⚠️ **Medical Disclaimer**: Educational use only. NOT a substitute for professional medical advice.
+> ⚠️ **Medical Disclaimer:** Educational use only. NOT a substitute for professional medical advice.
 
 ---
 
 ## ✨ Features
-
-- 🤖 Multi-modal AI analysis (image + text + audio)
+- 🤖 Multi-modal AI analysis (image + text)
 - 💬 ChatGPT-like conversational interface
 - 🩺 Real-time symptom analysis with 100+ medical keywords
 - 📊 Treatment recommendations with severity assessment
@@ -42,7 +33,6 @@ An intelligent multimodal system that analyzes skin conditions using:
 ## 🚀 Quick Start
 
 ### Installation
-
 ```bash
 # Clone repository
 git clone https://github.com/Aeshwa-Kachhadiya/Multimodal-skin-disease-analysis.git
@@ -60,21 +50,21 @@ streamlit run app.py
 
 ### Usage
 
-1. **Text Analysis**: Describe symptoms
-   ```
-   "I have a rough, scaly pink patch that feels like sandpaper"
-   ```
+**Text Analysis:** Describe symptoms
+```
+"I have a rough, scaly pink patch that feels like sandpaper"
+```
 
-2. **Image Analysis**: Upload skin lesion photo
-   - Click "Upload an image"
-   - Add optional description
-   - Get instant analysis
+**Image Analysis:** Upload skin lesion photo
+- Click "Upload an image"
+- Add optional description
+- Get instant analysis
 
-3. **Review Results**:
-   - Disease classification with confidence score
-   - Severity level (Critical/High/Low)
-   - Treatment recommendations
-   - Urgency alerts for critical conditions
+**Review Results:**
+- Disease classification with confidence score
+- Severity level (Critical/High/Low)
+- Treatment recommendations
+- Urgency alerts for critical conditions
 
 ---
 
@@ -82,12 +72,12 @@ streamlit run app.py
 
 | Dataset | Description | Size |
 |---------|-------------|------|
-| **HAM10000** | Dermatoscopic images | 10,015 images |
-| **DermNet** | Clinical dermatology images | Varied |
-| **Synthetic Disease Data** | Prevalence, mortality, costs | Statistical |
-| **Awareness Data** | Public knowledge, screening | Survey-based |
+| HAM10000 | Dermatoscopic images | 10,015 images |
+| DermNet | Clinical dermatology images | Varied |
+| Synthetic Disease Data | Prevalence, mortality, costs | Statistical |
+| Awareness Data | Public knowledge, screening | Survey-based |
 
-**Key Statistics**:
+**Key Statistics:**
 - Melanoma: 106.42 disease rate, 2.15 death rate, $12,386 avg cost
 - BCC: 126.75 disease rate, 2.22 death rate, $13,750 avg cost
 - Response times: Melanoma (5 days), Acne (30 days)
@@ -95,12 +85,10 @@ streamlit run app.py
 ---
 
 ## 🛠️ Tech Stack
-
-**AI/ML**: PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn  
-**Computer Vision**: PIL, OpenCV, NumPy  
-**Audio**: librosa  
-**Backend**: Streamlit, Google Gemini AI  
-**Data**: Pandas, Power BI  
+- **AI/ML:** PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn
+- **Computer Vision:** PIL, OpenCV, NumPy
+- **Backend:** Streamlit, Google Gemini AI
+- **Data:** Pandas, Power BI
 
 ---
 
@@ -113,13 +101,10 @@ streamlit run app.py
 | F1-Score | Balanced | ✅ 0.85 |
 | Inference Time | < 5 sec | ✅ Optimized |
 
-
-
 ---
 
 ## 🎨 Demo
-
-```python
+```
 # Example interaction
 User: "Dark mole with irregular borders, been growing"
 
@@ -139,7 +124,6 @@ Treatment Options:
 ---
 
 ## 📁 Project Structure
-
 ```
 ├── app.py                           # Main Streamlit application
 ├── skin_disease_model.py            # Disease classification model
@@ -156,9 +140,8 @@ Treatment Options:
 ---
 
 ## 🔮 Future Work
-
+- [ ] 🎤 **Audio input** — Voice recordings for symptom description (Whisper integration)
 - [ ] Vision Transformer for improved image analysis
-- [ ] Whisper integration for audio transcription
 - [ ] Mobile app (React Native/Flutter)
 - [ ] Clinical validation study
 - [ ] FDA approval pathway
@@ -166,8 +149,16 @@ Treatment Options:
 
 ---
 
-## 🤝 Contributing
+## ⚠️ Limitations & Ethics
+- ❌ Not FDA-approved or clinically validated
+- ❌ Cannot replace dermatologist examination
+- ❌ May have bias in skin tone representation
+- ✅ Use only as educational/screening tool
+- ✅ Always consult licensed medical professional
 
+---
+
+## 🤝 Contributing
 Contributions welcome! Please:
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -177,30 +168,16 @@ Contributions welcome! Please:
 
 ---
 
-## ⚠️ Limitations & Ethics
-
-- ❌ Not FDA-approved or clinically validated
-- ❌ Cannot replace dermatologist examination
-- ❌ May have bias in skin tone representation
-- ✅ Use only as educational/screening tool
-- ✅ Always consult licensed medical professional
-
----
-
 ## 👥 Team
+**Aeshwa Kachhadiya • Mukesh Goit**
 
-**Aeshwa Kachhadiya** • **Mukesh Goit**
-
-*Department of Data Science*
+Department of Data Science
 
 ---
-
-
 
 ## 📞 Contact
-
-**GitHub**: [@Aeshwa-Kachhadiya](https://github.com/Aeshwa-Kachhadiya)  
-**Issues**: [Report a bug](https://github.com/Aeshwa-Kachhadiya/Multimodal-skin-disease-analysis/issues)
+- GitHub: [@Aeshwa-Kachhadiya](https://github.com/Aeshwa-Kachhadiya)
+- Issues: [Report a bug](https://github.com/Aeshwa-Kachhadiya/Multimodal-skin-disease-analysis/issues)
 
 ---
 
